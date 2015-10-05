@@ -1,0 +1,2 @@
+# Nicaragua population density 
+A choropleth map of the population density in Nicaragua broken down by departments (provinces). The map is done using python's basemap library. Shapefiles for the administrative units of Nicaragua are taken down from the Global Administrative Areas (GADM) website (http://www.gadm.org/). The code to manipulate the shapefiles is largely taken from this blog: http://www.geophysique.be/2013/02/12/matplotlib-basemap-tutorial-10-shapefiles-unleached-continued/ 
